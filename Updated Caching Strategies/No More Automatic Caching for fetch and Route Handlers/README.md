@@ -1,0 +1,1 @@
+To provide more predictable behaviour, fetch requests and route handlers are no longer cached by default. fetch requests will use the no-store strategy by default. To cache them from now onwards, we'll need to include explicit cache parameters.
