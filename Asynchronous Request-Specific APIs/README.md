@@ -1,0 +1,1 @@
+A significant improvement is that request-specific APIs like headers, cookies, params, and searchParams are now asynchronous. For example in the search page that we want to render content depending on the searchParams we need to do the following as seen in example.ts
