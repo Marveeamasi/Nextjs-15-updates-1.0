@@ -1,2 +1,2 @@
 Next.js 15 enables TurboPack during development. By running next dev --turbo, we can now experience blazing-fast local server startups and quicker code refreshes. On the Vercel app, for instance, TurboPack achieved a 75% faster local server startup and 95% faster code updates with Fast Refresh.
-In my example in example.js , we are defaulting the dev server to turbopack by adapting the development script
+In my example in example.json , we are defaulting the dev server to turbopack by adapting the development script
